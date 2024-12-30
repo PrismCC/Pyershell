@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "name": "PyerShell",
+    "author": "PrismCC",
+    "datapath": "./data/",
+    "shortcut_path": "./data/shortcut.json"
+}
